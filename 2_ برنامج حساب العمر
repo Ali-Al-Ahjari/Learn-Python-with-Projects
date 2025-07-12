@@ -1,0 +1,4 @@
+x = int(input(" ادخل عمرك "))
+current_year = 2025
+age = current_year - x
+print(f" سنة ميلادك هي:: {age}")
