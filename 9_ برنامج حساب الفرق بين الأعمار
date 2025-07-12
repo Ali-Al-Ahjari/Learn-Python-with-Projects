@@ -1,0 +1,4 @@
+birth_year1 = int(input("أدخل سنة ميلادك: "))
+birth_year2 = int(input("أدخل سنة ميلاد الشخص الآخر: "))
+age_difference = abs(birth_year1 - birth_year2)
+print(f"الفارق بين أعماركما هو: {age_difference} سنة.")

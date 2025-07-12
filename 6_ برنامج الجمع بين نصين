@@ -1,0 +1,4 @@
+first_name = input("أدخل اسمك الأول: ")
+last_name = input("أدخل اسمك الأخير: ")
+full_name = first_name + " " + last_name
+print(f"اسمك الكامل هو: {full_name}")

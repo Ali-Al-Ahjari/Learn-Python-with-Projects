@@ -1,0 +1,5 @@
+text = input("أدخل نصًا: ")
+if len(text) > 10:
+    print("النص طويل.")
+else:
+    print("النص قصير.")

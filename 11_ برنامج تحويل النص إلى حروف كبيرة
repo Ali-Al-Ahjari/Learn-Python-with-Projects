@@ -1,0 +1,2 @@
+text = input("أدخل نصًا: ")
+print(f"النص بأحرف كبيرة: {text.upper()}")

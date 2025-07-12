@@ -1,0 +1,3 @@
+price = float(input("أدخل السعر الأصلي: "))
+discounted_price = price * 0.80
+print(f"السعر بعد الخصم هو: {discounted_price}")
